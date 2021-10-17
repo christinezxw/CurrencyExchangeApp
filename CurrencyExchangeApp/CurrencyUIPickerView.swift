@@ -1,0 +1,20 @@
+//
+//  CurrencyUIPickerView.swift
+//  CurrencyExchangeApp
+//
+//  Created by Xuanwei Zhang on 10/15/21.
+//
+
+import UIKit
+
+class CurrencyUIPickerView: UIPickerView {
+
+    /*
+    // Only override draw() if you perform custom drawing.
+    // An empty implementation adversely affects performance during animation.
+    override func draw(_ rect: CGRect) {
+        // Drawing code
+    }
+    */
+
+}
